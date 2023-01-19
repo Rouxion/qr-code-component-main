@@ -5,10 +5,17 @@
     font-style: normal;
 }
 
-
+@font-face {
+    font-family: 'Outfit-p';
+    src: url('https://fonts.google.com/specimen/Outfit');
+    font-weight: 400;
+    font-style: normal;
+}
 
 .container {
     background-color: hsl(220, 15%, 55%);
+    width: 1400px;
+    height: auto;
   }
   
   .box {
@@ -43,5 +50,5 @@
   p {
     color: hsl(212, 45%, 89%);
     font-size: 2em;
-    font-family: Arial, sans-serif;
+    font-family: 'Outfit-p', 'Arial', 'sans-serif';
 }
