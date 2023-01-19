@@ -8,9 +8,18 @@
     text-align: center;
     padding: 20px;
   }
-  
+
   img {
     width: 50%;
     height: auto;
     margin: 0 auto;
 }
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
