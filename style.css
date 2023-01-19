@@ -14,8 +14,9 @@
 
 .container {
     background-color: hsl(212, 45%, 89%);
-    align-self: center;
-    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 1400px;
     height: auto;
   }
