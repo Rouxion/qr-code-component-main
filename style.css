@@ -19,10 +19,12 @@
     justify-content: center;
     width: 1400px;
     height: auto;
+    margin: 0 auto;
   }
   
   .box {
-    width: 50%;
+    width: 30%;
+    height: 30%;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     text-align: center;
@@ -52,6 +54,6 @@
 
   p {
     color: hsl(220, 15%, 55%);
-    font-size: 2em;
+    font-size: ;
     font-family: 'Outfit-p', 'Arial', 'sans-serif';
 }
