@@ -1,8 +1,16 @@
-body {
+.container {
     background-color: lightblue;
   }
   
-  h1 {
-    color: navy;
-    margin-left: 20px;
+  .box {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
   }
+  
+  img {
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
